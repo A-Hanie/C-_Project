@@ -8,6 +8,10 @@ I made this Project to be scalable with maximum modularity by applying oop conce
  - GNU gdb  
  - Cmake (VERSION 3.8)
  - Text editor
+ 
+### Class Diagram
+
+<img align="center" alt="Coding" width="360" src="https://github.com/A-Hanie/Cpp_Project/blob/main/media/classDiagram.png">
 
 ### Project Tree
 ```
