@@ -1,6 +1,8 @@
 # C++ Project
-C++ cash course project
-I made this Project to be scalable with maximum modularity by applying oop concepts
+C++ cash course project <br>
+
+I made this Project to be scalable with maximum modularity by applying oop concepts <br>
+
 ## Requirements
  - Mingw
  - GNU gdb  
