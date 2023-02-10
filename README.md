@@ -2,7 +2,7 @@
 C++ cash course project <br>
 
 I made this Project to be scalable with maximum modularity by applying oop concepts <br>
-
+[Project details](https://github.com/A-Hanie/Cpp_Project/blob/main/media/C%2B%2B%20Project.pdf)
 ## Requirements
  - Mingw
  - GNU gdb  
