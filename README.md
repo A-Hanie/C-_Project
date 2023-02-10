@@ -1,5 +1,6 @@
 # C++ Project
 C++ cash course project
+I made this Project to be scalable with maximum modularity
 ## Requirements
  - Mingw
  - GNU gdb  
