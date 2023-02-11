@@ -25,7 +25,7 @@
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 * @brief: 1st default Construct a new Manipulator object
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
-Manipulator::Manipulator():  payload(20), workspace_size(30), maxReach(200), no_Code_of_end_effector(2)
+Manipulator::Manipulator()  :payload(0), workspace_size(0), maxReach(0), no_Code_of_end_effector(0)
 {
 #if DEBUG == true
     green();
